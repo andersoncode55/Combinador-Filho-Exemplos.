@@ -1,0 +1,39 @@
+
+
+/* Combinador filho com com ID */
+#lista > li {
+    font-weight: bold;
+    background-color: brown;
+}
+
+
+
+
+
+
+/* Combinador filho com classe */
+.menu > ul > li {
+    margin-right: 20px;
+}
+
+
+
+
+
+
+.formulario > div {
+    margin-bottom: 10px;
+}
+
+
+
+
+.tabela > tbody > tr > td {
+    padding: 5px;
+}
+
+
+
+.tabela > tbody > tr > td {
+    padding: 5px;
+}
